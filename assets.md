@@ -410,7 +410,7 @@ This GitHub App addresses two common issues:
 
 ### `otelbot` (SIG-specific)
 
-SIG-specific `otelbot` GitHub apps are for repositories that need to run automations
+SIG-specific `otelbot` GitHub apps are for repositories that need to run automated tasks
 with permissions beyond the main `otelbot`.
 Each of these apps is scoped to a single repository with dedicated credentials.
 

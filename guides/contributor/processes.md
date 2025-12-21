@@ -103,7 +103,7 @@ in the SIG-specific GitHub repositories.
 Not ready to contribute code, but see something that needs work? While the
 community encourages everyone to contribute code, it is also appreciated when
 someone reports an issue (aka problem). Issues should be filed under the
-appropriate OpenTelemetry subrepository.
+appropriate OpenTelemetry sub-repository.
 
 Make sure to adhere to the repository specific policies or issue templates to
 provide detailed information that will help prompt answer and resolution of an
