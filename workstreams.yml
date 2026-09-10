@@ -592,7 +592,7 @@
       level: guiding
   resources:
   - meeting:
-      schedule: Thursday at 08:00 PT
+      schedule: Thursday at 08:30 PT
       calendarInviteGroup: calendar-injector
       gDocNotes: 10bZsPhjbJHt-vamRg5kqHQf4ZANUiLOJxP9HYCONe94
   - slack:
@@ -675,7 +675,7 @@
         level: escalating
   resources:
     - meeting:
-        schedule: Wednesday at 10:00 PT
+        schedule: Thursday at 8:00 PT
         calendarInviteGroup: calendar-packaging
         gDocNotes: 1NDY0rpntHeyEvx9xUg9WdiNyWa7Gq8YKUdjfM1a36GI
     - slack:

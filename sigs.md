@@ -294,7 +294,7 @@ This page contains detailed information for all OpenTelemetry Special Interest G
 
 ### Injector
 
-- **Meeting time:** Thursday at 08:00 PT
+- **Meeting time:** Thursday at 08:30 PT
 - **Meeting notes:** [Google Doc](https://docs.google.com/document/d/10bZsPhjbJHt-vamRg5kqHQf4ZANUiLOJxP9HYCONe94)
 - **Meeting invites group:** [calendar-injector](https://groups.google.com/a/opentelemetry.io/g/calendar-injector)
 - **Slack channel:** [#otel-injector](https://cloud-native.slack.com/archives/C09025GKPAL)
@@ -335,7 +335,7 @@ This page contains detailed information for all OpenTelemetry Special Interest G
 
 ### Packaging
 
-- **Meeting time:** Wednesday at 10:00 PT
+- **Meeting time:** Thursday at 8:00 PT
 - **Meeting notes:** [Google Doc](https://docs.google.com/document/d/1NDY0rpntHeyEvx9xUg9WdiNyWa7Gq8YKUdjfM1a36GI)
 - **Meeting invites group:** [calendar-packaging](https://groups.google.com/a/opentelemetry.io/g/calendar-packaging)
 - **Slack channel:** [#otel-packaging](https://cloud-native.slack.com/archives/C0AD17NMBLZ)
